@@ -1,5 +1,5 @@
-# Meguelle Jr Elumba
+# elumba_meguellejr
 
 Web Development
 
-Live site: https://meguellejrelumba.github.io/elumba_meguellejr/
+Live site: https://elumbameguellejr.github.io/elumba_meguellejr/
